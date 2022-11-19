@@ -356,8 +356,14 @@ h3.subtitle:before {
 .about-text h2 {
     margin-bottom: 0px;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 500;
     margin-top: 0;
+}
+
+.about-text p {
+    margin-top: -20px;
+    margin-bottom: 40px;
+    font-size: 16px;
 }
 
 .accordion {
